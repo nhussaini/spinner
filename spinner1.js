@@ -31,5 +31,5 @@ setTimeout(() => {
 }, 1800);
 setTimeout(() => {
   console.log("");
-},1850);
+}, 1850);
 
